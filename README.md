@@ -6,10 +6,9 @@
 
 
 ### Task:
-![Screenshot 2023-03-10 150204](https://user-images.githubusercontent.com/101310529/224246360-16997b4a-cd99-407b-bf4a-8733ae8ed9f9.png)
+![Screenshot 2023-03-10 150204](https://user-images.githubusercontent.com/101310529/224252064-821d72ad-3e40-4554-ba24-ef87ac963e40.png)
 
 
 ### Answer:
-![Screenshot 2023-03-10 150407](https://user-images.githubusercontent.com/101310529/224251555-92eef5f1-9a81-415b-a5e1-12c3600118a5.png)
-
+![Screenshot 2023-03-10 150407](https://user-images.githubusercontent.com/101310529/224252085-9090eac5-0e90-4630-adfa-47dafa175c55.png)
 
