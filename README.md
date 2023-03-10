@@ -1,7 +1,7 @@
 # Generate Hash Tree with 31 Candidate Itemset
 ## Description:
 Course: Data Mining and Knowledge Discovery (Fall 2021) <br />
-Description: Write own program
+Task: Write own program
 
 > In the Apriori algorithm, candidate itemsets are partitioned into diﬀerent buckets and stored in a **hash tree**. During support counting, itemsets contained in each transaction are also hashed into their appropriate buckets. That way, instead of comparing each itemset in the transaction with every candidate itemset, it is matched only against candidate itemsets that belong to the same bucket
 > 
